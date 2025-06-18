@@ -1,6 +1,6 @@
 # Task 1 
 
-Objective- Perform a network scan to identify open ports and services using nmap.
+Objective- Perform a network scan to identify open ports and services using nmap. 
 
 
 
